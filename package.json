@@ -1,7 +1,7 @@
   {
   "name": "node-vntokenizer",
-  "version": "0.0.7",
-  "description": "Nodejs text n-grams",
+  "version": "0.0.1",
+  "description": "Tokenizer for Vietnamese in Nodejs and Javascript",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
@@ -15,7 +15,11 @@
     "nlp",
     "vntokenizers",
     "text",
-    "processing"
+    "processing",
+    "ngram",
+    "tokenizer",
+    "vietnam",
+    "vietnamese"
   ],
   "author": "Van-Duyet Le",
   "license": "MIT",
@@ -24,8 +28,7 @@
   },
   "homepage": "https://github.com/duyetdev/node-vntokenizer#readme",
   "dependencies": {
-    "lodash": "^3.10.1",
-    "node-textcleaner": "0.0.1"
+    "lodash": "^3.10.1"
   },
   "devDependencies": {
     "mocha": "^2.3.3"
