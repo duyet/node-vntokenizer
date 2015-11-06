@@ -8,6 +8,22 @@ Tokenizer for Vietnamese in Nodejs and Javascript.
 npm install node-vntokenizer
 ```
 
+# Sample
+
+```js
+var Tokenizer = require('node-vntokenizer');
+var token = new Tokenizer();
+
+console.log(token.tokenize('Lê Văn Duyệt'));
+// [ 'Lê', 'Văn', 'Duyệt' ]
+
+console.log(token.tokenize('Tôi tên là Duyệt. Test chơi vậy thôi!! Không biết có đúng hay không nữa?'));
+// [ 'Tôi', 'tên', 'là', 'Duyệt', 'Test', 'chơi', 'vậy', 'thôi', 'Không', 'biết', 'có', 'đúng', 'hay', 'không', 'nữa' ]
+
+console.log(token.tokenize('!!!Lê!!Văn          Duyệt'));
+// [ 'Lê', 'Văn', 'Duyệt' ]
+```
+
 # Test
 ```sh
 npm test
