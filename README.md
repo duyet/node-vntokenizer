@@ -2,10 +2,8 @@
 
 Tokenizer for Vietnamese in Nodejs and Javascript.
 
-<img src="https://img.shields.io/github/downloads/duyetdev/node-vntokenizer/latest/total.svg" />
 <img src="https://img.shields.io/npm/v/node-vntokenizer.svg?style=flat-square" />
 <img src="https://img.shields.io/npm/l/node-vntokenizer.svg?style=flat-square" />
-<img src="https://img.shields.io/github/issues/duyetdev/node-vntokenizer.svg?style=flat-square" />
 
 
 # Instalation 
