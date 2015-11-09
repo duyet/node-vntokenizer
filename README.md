@@ -8,8 +8,14 @@ Tokenizer for Vietnamese in Nodejs and Javascript.
 
 # Instalation 
 
+* Via NPM
 ```sh
-npm install node-vntokenizer
+npm install node-vntokenizer --save
+```
+
+* Via Bower 
+```sh
+bower install tokenizer --save
 ```
 
 # Sample
