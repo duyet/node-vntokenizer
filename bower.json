@@ -1,0 +1,32 @@
+{
+  "name": "node-vntokenizer",
+  "description": "Tokenizer for Vietnamese in Nodejs and Javascript",
+  "main": "index.js",
+  "authors": [
+    "Van-Duyet Le"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "nlp",
+    "vntokenizers",
+    "text",
+    "processing",
+    "ngram",
+    "tokenizer",
+    "vietnam",
+    "vietnamese"
+  ],
+  "homepage": "https://github.com/duyetdev/node-vntokenizer",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
