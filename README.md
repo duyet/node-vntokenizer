@@ -2,6 +2,10 @@
 
 Tokenizer for Vietnamese in Nodejs and Javascript.
 
+<img src="https://img.shields.io/npm/v/node-vntokenizer.svg?style=flat-square" />
+<img src="https://img.shields.io/npm/l/node-vntokenizer.svg?style=flat-square" />
+
+
 # Instalation 
 
 ```sh
@@ -28,6 +32,9 @@ console.log(token.tokenize('!!!Lê!!Văn          Duyệt'));
 ```sh
 npm test
 ```
+# TODO
+
+* Tokenizer string for Vietnamese 
 
 # How to contribute
 1. Fork the project on Github

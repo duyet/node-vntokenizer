@@ -1,6 +1,6 @@
 {
   "name": "node-vntokenizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tokenizer for Vietnamese in Nodejs and Javascript",
   "main": "index.js",
   "scripts": {
