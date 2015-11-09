@@ -7,7 +7,7 @@
     if (typeof _ === 'undefined') {
         if (has_require) {
             var util = require("util");
-            var _ = require('underscore')._;
+            var _ = require('lodash');
         } else
             throw new Error('vnTokenizer requires underscore');
     }

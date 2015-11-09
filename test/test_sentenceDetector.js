@@ -1,4 +1,5 @@
-var sentenceDetector = require('../');
+/*
+var sentenceDetector = require('../lib/java/sentenceDetector');
 
 console.log(sentenceDetector);
 
@@ -6,3 +7,4 @@ var s = "Điều này hoàn toàn trái ngược với chính sách của Micros
 sentenceDetector(s, function(err, result) {
 	console.log(err, result);
 })
+*/
