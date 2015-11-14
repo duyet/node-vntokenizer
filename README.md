@@ -4,6 +4,7 @@ Tokenizer for Vietnamese in Nodejs and Javascript.
 
 <img src="https://img.shields.io/npm/v/node-vntokenizer.svg?style=flat-square" />
 <img src="https://img.shields.io/npm/l/node-vntokenizer.svg?style=flat-square" />
+
 [![NPM](https://nodei.co/npm/node-vntokenizer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-vntokenizer/)
 
 # Instalation 
