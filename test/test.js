@@ -12,4 +12,9 @@ describe('Tokenizer', function() {
 	it ('should be remove not word charactors', function() {
 		assert.deepEqual([ 'Lê', 'Văn', 'Duyệt' ], token.tokenize('!!!Lê!!Văn          Duyệt'));
 	});
+
+	it ('should be empty', function() {
+                assert.deepEqual([], token.tokenize('  !@#    '));
+        });
+
 });
