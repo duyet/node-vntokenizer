@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/duyetdev/node-vntokenizer#readme",
   "dependencies": {
-    "java": "^0.6.0",
-    "lodash": "^3.10.1",
+    "java": "^5.0.0",
+    "lodash": "^4.17.21",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
